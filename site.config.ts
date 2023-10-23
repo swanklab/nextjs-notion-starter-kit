@@ -17,7 +17,7 @@ export default siteConfig({
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  instagram: 'swanklab___',
+  instagram: 'https://www.instagram.com/swank__lab/',
   youtube: 'swanklab',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
